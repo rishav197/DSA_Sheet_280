@@ -13,8 +13,7 @@ S.No. | Problem | Approach/Logic used | Level | Link | Solution |
 9 | Buy and Sell stock-II |  | Easy | [view](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [view](buy_n_sell_stock2.cpp) 
 10 | Subarray sum divisible by k |  | Medium | [view](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/) | [view](subarr_sum_div_by_k.cpp) 
 11 | Find all duplicates |  | Medium | [view](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [view](find_all_dups.cpp) 
-12 | 3Sum | approach-1: Bruteforce, initially sort given arr then generate triplets using three Nested loops
-approach-2: two pointer approach | Medium | [view](https://leetcode.com/problems/3sum/description/) | [view](three_sum.cpp) 
+12 | 3Sum | approach-1: Bruteforce, initially sort given arr then generate triplets using three Nested loops approach-2: two pointer approach | Medium | [view](https://leetcode.com/problems/3sum/description/) | [view](three_sum.cpp) 
 
 
 <!---
