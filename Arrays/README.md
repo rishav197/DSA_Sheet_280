@@ -8,6 +8,7 @@ S.No. | Problem | Approach/Logic used | Level | Link | Solution |
 4 | set matrix zeroes | using a vector of pairs contains locations at which zero presented | Easy | [view](https://leetcode.com/problems/set-matrix-zeroes/) | [view](set_matrix_zeroes.cpp) 
 5 | Move Zeroes |  | Easy | [view](https://leetcode.com/problems/move-zeroes/) | [view](move_zeroes.cpp) 
 6 | Buy and Sell stock-1 |  | Easy | [view](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [view](buy_n_sell_stock1.cpp) 
+7 | Chocolate Distri. Prob. |  | Easy | [view](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem3825/0) | [view](choco_distribution.cpp) 
 <!---
 1 | Name | logic | [view](url) | [view](name.cpp) 
 -->
