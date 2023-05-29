@@ -6,6 +6,7 @@ S.No. | Problem | Approach/Logic used | Level | Link | Solution |
 2 | Sort Colors | Do sorting using any sorting algo | Easy | [view](https://leetcode.com/problems/sort-colors/) | [view](SortColors.cpp) 
 3 | remove duplicates from sorted array | using a set contains unique nums | Easy | [view](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [view](rmDuplicatesNums.cpp) 
 4 | set matrix zeroes | using a vector of pairs contains locations at which zero presented | Easy | [view](https://leetcode.com/problems/set-matrix-zeroes/) | [view](set_matrix_zeroes.cpp) 
+5 | Move Zeroes |  | Easy | [view](https://leetcode.com/problems/move-zeroes/) | [view](move_zeroes.cpp) 
 
 <!---
 1 | Name | logic | [view](url) | [view](name.cpp) 
