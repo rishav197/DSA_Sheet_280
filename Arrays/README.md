@@ -15,8 +15,8 @@ S.No. | Problem | Approach/Logic used | Level | Link | Solution |
 11 | Find all duplicates |  | Medium | [view](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [view](find_all_dups.cpp) 
 12 | 3Sum | approach-1: Bruteforce, initially sort given arr then generate triplets using three Nested loops<br>approach-2: two pointer approach | Medium | [view](https://leetcode.com/problems/3sum/description/) | [view](three_sum.cpp) 
 13 | 4Sum | approach-1: Bruteforce, initially sort given arr then generate quadaruplets using four Nested loops<br>approach-2: two pointer approach | Medium | [view](https://leetcode.com/problems/4sum/description/) | [view](four_sum.cpp) 
-14 | Container with most water | approach-1: Bruteforce nested two loops<br>approach-2: two pointer approach | Medium | [view](https://leetcode.com/problems/container-with-most-water/description/) | [view](container_most_water.cpp) 
-
+14 | Container with most water | approach-1: Bruteforce, using nested two loops<br>approach-2: two pointer approach | Medium | [view](https://leetcode.com/problems/container-with-most-water/description/) | [view](container_most_water.cpp) 
+15 | max pts you can get from cards | approach: Sliding Window | Medium | [view](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/description/) | [view](mx_pts_you_can_obt_from_cards.cpp) 
 
 <!---
 1 | Name | logic | [view](url) | [view](name.cpp) 
