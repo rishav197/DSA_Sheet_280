@@ -17,6 +17,8 @@ S.No. | Problem | Approach/Logic used | Level | Link | Solution |
 13 | 4Sum | approach-1: Bruteforce, initially sort given arr then generate quadaruplets using four Nested loops<br>approach-2: two pointer approach | Medium | [view](https://leetcode.com/problems/4sum/description/) | [view](four_sum.cpp) 
 14 | Container with most water | approach-1: Bruteforce, using nested two loops<br>approach-2: two pointer approach | Medium | [view](https://leetcode.com/problems/container-with-most-water/description/) | [view](container_most_water.cpp) 
 15 | max pts you can get from cards | approach: Sliding Window | Medium | [view](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/description/) | [view](mx_pts_you_can_obt_from_cards.cpp) 
+16 | Sub-arrays sum equals k | approach1: Cumulative sum approach, TC->O(N^2)<br>approach2: prefixSum with Map, TC->O(N) | Medium | [view](https://leetcode.com/problems/subarray-sum-equals-k/description/) | [view](subarr_sum_eqto_k.cpp) 
+
 
 <!---
 1 | Name | logic | [view](url) | [view](name.cpp) 
