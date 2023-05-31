@@ -19,7 +19,7 @@ S.No. | Problem | Approach/Logic used | Level | Link | Solution |
 15 | max pts you can get from cards | approach: Sliding Window | Medium | [view](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/description/) | [view](mx_pts_you_can_obt_from_cards.cpp) 
 16 | Sub-arrays sum equals k | approach1: Cumulative sum approach, TC->O(N^2)<br>approach2: prefixSum with Map, TC->O(N) | Medium | [view](https://leetcode.com/problems/subarray-sum-equals-k/description/) | [view](subarr_sum_eqto_k.cpp) 
 17 | Spiral matrix | approach: we need to do 4Types of traversal(Left->Right, Top->Bottom, Right->Left, Bottom->Top) till condition (count less than total_elements) | Medium | [view](https://leetcode.com/problems/spiral-matrix/description/) | [view](spiral_matrix.cpp) 
-
+19 | Merge Sorted Array | approach-1: add all nums of nums2[] in nums1[] with start idx=m then sort nums1[]  | Medium | [view](https://leetcode.com/problems/merge-sorted-array/description/) | [view](merge_sorted_arr.cpp) 
 
 
 <!---
