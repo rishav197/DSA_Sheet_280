@@ -20,6 +20,7 @@ S.No. | Problem | Approach/Logic used | Level | Link | Solution |
 16 | Sub-arrays sum equals k | approach1: Cumulative sum approach, TC->O(N^2)<br>approach2: prefixSum with Map, TC->O(N) | Medium | [view](https://leetcode.com/problems/subarray-sum-equals-k/description/) | [view](subarr_sum_eqto_k.cpp) 
 17 | Spiral matrix | approach: we need to do 4Types of traversal(Left->Right, Top->Bottom, Right->Left, Bottom->Top) till condition (count less than total_elements) | Medium | [view](https://leetcode.com/problems/spiral-matrix/description/) | [view](spiral_matrix.cpp) 
 19 | Merge Sorted Array | approach-1: add all nums of nums2[] in nums1[] with start idx=m then sort nums1[]<br>approach-2: two pointer approach  | Medium | [view](https://leetcode.com/problems/merge-sorted-array/description/) | [view](merge_sorted_arr.cpp) 
+20 | Majority Element | approach-1: keep track of feq of ele of the array nums[] using unordered_map<br>approach-2: first do sorting then return middle element| Medium | [view](https://leetcode.com/problems/majority-element/description/) | [view](merge_sorted_arr.cpp) 
 
 
 <!---
