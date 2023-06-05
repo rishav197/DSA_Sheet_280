@@ -22,7 +22,7 @@ S.No. | Problem | Approach/Logic used | Level | Link | Solution |
 19 | Merge Sorted Array | approach-1: add all nums of nums2[] in nums1[] with start idx=m then sort nums1[]<br>approach-2: two pointer approach  | Medium | [view](https://leetcode.com/problems/merge-sorted-array/description/) | [view](merge_sorted_arr.cpp) 
 20 | Majority Element | approach-1: keep track of feq of ele of the array nums[] using unordered_map<br>approach-2: first do sorting then return middle element| Medium | [view](https://leetcode.com/problems/majority-element/description/) | [view](majority_ele.cpp) 
 21 | Reverse Pairs | approach-1: using two nested loop and check reverse condition<br>approach-2: using mergeSort and checking reverse condition while merge| Medium | [view](https://leetcode.com/problems/reverse-pairs/description/) | [view](reverse_pairs.cpp) 
-
+22 | Reverse Pairs | approach-1: using two nested loop<br>approach-2: | Medium | [view](https://leetcode.com/problems/max-value-of-equation/description/) | [view](max_val_of_eq.cpp) 
 
 <!---
 1 | Name | logic | [view](url) | [view](name.cpp) 
