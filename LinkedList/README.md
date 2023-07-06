@@ -7,3 +7,4 @@ S.No. | Problem | Approach/Logic used | Level | Link | Solution |
 3 | Convert Binary num in a Linked list to integer |  | Easy | [view](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/) | [view](Convert-binary-num-to-decimal.cpp) 
 4 | Remove Duplicates from Sorted List |  | Easy | [view](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [view](remove-dups-from-sorted-lst.cpp) 
 12 | Reverse Linked List | Recursive approach - change first link b/w first and second node and rest recursion will take care | Easy | [view](https://leetcode.com/problems/reverse-linked-list/description/) | [view](reverse-LL.cpp) 
+13 | addTwoNums | fixed approach keep a carry variable and assign digits and carries in new linkedlist as digit=value%10 and carry=value/10 | Medium | [view](https://leetcode.com/problems/add-two-numbers/description/) | [view](addTwoNums.cpp)
