@@ -12,13 +12,6 @@
  */
 class Solution {
 public:
-    void insertAtTail(ListNode* &head, int val){
-        ListNode* newNode=new ListNode(val);
-        ListNode* tmp=head;
-        tmp->next=newNode;
-
-    }
-
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
         ListNode* l3=new ListNode(0);
         ListNode* dummyHead=l3;
