@@ -1,3 +1,4 @@
+/* TC-> O(N); SC->O(N) */
 /**
  * Definition for singly-linked list.
  * struct ListNode {
