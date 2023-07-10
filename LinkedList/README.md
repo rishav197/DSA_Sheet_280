@@ -16,4 +16,5 @@ S.No. | Problem | Approach/Logic used | Level | Link | Solution |
 23 | Sort List | store all elements of the given list in a vector and then sort the vector then copy values from sorted vector to original list | Medium | [view](https://leetcode.com/problems/sort-list/description/) | [view](sortList.cpp)
 24 | Segregate even and odd nodes in a Linked List | approach: using two list of odds and evens then copy them into original Linked List | Medium | [view](https://practice.geeksforgeeks.org/problems/segregate-even-and-odd-nodes-in-a-linked-list5035/1) | [view](segregate-even-odd-nodes-in-LL.cpp)
 25 | Reorder List | same approach as problem no.-17 | Medium | [view](https://www.geeksforgeeks.org/rearrange-a-given-linked-list-in-place/) | [view](reorder-list-gfg.cpp)
-27 | reverseNodes-in-K-grps.cpp |  | Hard | [view](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | [view](reverseNodes-in-K-grps.cpp)
+26 | merge k Sorted Lists | approach: using a helper merge function for merging two lists at a time | Hard | [view](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [view](merge-k-sorted-lsts.cpp)
+27 | reverse Nodes in K groups |  | Hard | [view](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | [view](reverseNodes-in-K-grps.cpp)
