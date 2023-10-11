@@ -34,7 +34,7 @@ public:
 
 
 /*
-Approach: Using Stack based concept of NSL, NSR
+Approach: Using Stack based on concept of NSL and NSR.
 NSL -> Next Smaller to left
 NSR -> Next Smaller to right
 */
